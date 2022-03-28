@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "The impact of explanations on AI competency prediction in VQA"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-competency
+excerpt: "In this paper, we evaluate the impact of explanations on the user's mental model of AI agent competency within the task of visual question answering (VQA)."
+date: 2020-09-21
+venue: '2020 IEEE International Conference on Humanized Computing and Communication with Artificial Intelligence (HCCAI)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9230378'
+citation: 'Alipour, Kamran, et al. "The impact of explanations on AI competency prediction in VQA." 2020 IEEE International Conference on Humanized Computing and Communication with Artificial Intelligence (HCCAI). IEEE, 2020.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+In this paper, we evaluate the impact of explanations on the user's mental model of AI agent competency within the task of visual question answering (VQA).
