@@ -6,6 +6,6 @@ excerpt: "In the domain of visual question answering (VQA), studies have shown i
 date: 2021-06-25
 venue: 'Applied AI Letters'
 paperurl: 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/ail2.47'
-citation: "Alipour, Kamran, et al. \"Improving users' mental model with attention‐directed counterfactual edits.\" Applied AI Letters (2021): e47."
+citation: "Alipour, K., Ray, A., Lin, X., Cogswell, M., Schulze, J. P., Yao, Y., & Burachas, G. T. (2021). Improving users' mental model with attention‐directed counterfactual edits. Applied AI Letters, e47."
 ---
 This paper is about generating automated counterfactual explanations for the task of visual question answering (VQA).
