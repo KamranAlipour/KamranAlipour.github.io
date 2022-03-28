@@ -25,11 +25,11 @@ __AI in medical imaging:__
 
 Work experience
 ======
-* __CureMetrix Co.__ Summer 2017:
+* __CureMetrix Co.__ Summer 2017:<br />
   ___Data Science Intern___
   * Application  of Deep Learning in mammography images and breast cancer diagnosis.
 
-* __Outward Inc.__ Summer 2020 & 2021: 
+* __Outward Inc.__ Summer 2020 & 2021:<br /> 
   ___Research Science Intern___
   * Application of deep learning algorithms in scene understanding and recommendation systems in the retail industry.
 
