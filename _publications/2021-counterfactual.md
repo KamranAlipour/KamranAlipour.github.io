@@ -9,7 +9,3 @@ paperurl: 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/ail2.47'
 citation: "Alipour, Kamran, et al. \"Improving users' mental model with attention‐directed counterfactual edits.\" Applied AI Letters (2021): e47."
 ---
 This paper is about generating automated counterfactual explanations for the task of visual question answering (VQA).
-
-[Download paper here](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ail2.47)
-
-Recommended citation: Alipour, Kamran, et al. \"Improving users' mental model with attention‐directed counterfactual edits.\" Applied AI Letters (2021): e47.

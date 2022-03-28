@@ -9,9 +9,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Aerospace Engineering, K.N. Toosi University of Technology, 2011
-* M.S. in Aerospace Engineering, Sharif University of Technology, 2013
 * Ph.D in Computer Science, University of California San Diego, 2022 (expected)
+* M.S. in Aerospace Engineering, Sharif University of Technology, 2013
+* B.S. in Aerospace Engineering, K.N. Toosi University of Technology, 2011
 
 Research experience
 ======
