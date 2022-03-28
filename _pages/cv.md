@@ -7,53 +7,34 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Aerospace Engineering, K.N. Toosi University of Technology, 2011
+* M.S. in Aerospace Engineering, Sharif University of Technology, 2013
+* Ph.D in Computer Science, University of California San Diego, 2022 (expected)
+
+Research experience
+======
+__Explainability in vision/language AI__:
+ * Efficacy evaluation of explanation modalities in vision and language tasks and quantitative analysis of trust in AI algorithms. This project introduces new metrics and methods to produce, and evaluate the helpfulness of explanations.
+ * Uncertainty prediction, calibration, and explanation in deep neural networks__Training uncertainty-aware AI algorithms and explaining their uncertainty with non-adversarial counterfactuals. 
+__AI in medical imaging__
+ * Detecting glaucoma from fundus photographs transformers. The introduced transformer based classifier proved higher accuracy and interpretability compared to its CNN counterpart.  
+ * Contrast enhancement in low-fluence photoacoustic images with semi-supervised deep learning algorithms.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Data Science Intern
+  * CureMetrix Co.
+  * 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2020,2021: Research Science Intern
+  * Outward Inc.
+  * 
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
