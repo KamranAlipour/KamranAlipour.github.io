@@ -15,22 +15,23 @@ Education
 
 Research experience
 ======
-__Explainability in vision/language AI__:
+__Explainability in vision/language AI:__
  * Efficacy evaluation of explanation modalities in vision and language tasks and quantitative analysis of trust in AI algorithms. This project introduces new metrics and methods to produce, and evaluate the helpfulness of explanations.
  * Uncertainty prediction, calibration, and explanation in deep neural networks__Training uncertainty-aware AI algorithms and explaining their uncertainty with non-adversarial counterfactuals. 
-__AI in medical imaging__
+
+__AI in medical imaging:__
  * Detecting glaucoma from fundus photographs transformers. The introduced transformer based classifier proved higher accuracy and interpretability compared to its CNN counterpart.  
  * Contrast enhancement in low-fluence photoacoustic images with semi-supervised deep learning algorithms.
 
 Work experience
 ======
-* Summer 2017: Data Science Intern
-  * CureMetrix Co.
-  * 
+* __CureMetrix Co.__ Summer 2017:
+  * Data Science Intern
+  * Application  of Deep Learning in mammography images and breast cancer diagnosis.
 
-* Summer 2020,2021: Research Science Intern
-  * Outward Inc.
-  * 
+* __Outward Inc.__ Summer 2020 & 2021: 
+  * Research Science Intern
+  * Application of deep learning algorithms in scene understanding and recommendation systems in the retail industry.
 
 
 Publications
