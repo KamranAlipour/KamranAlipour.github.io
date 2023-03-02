@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of California San Diego, 2022 (expected)
+* Ph.D in Computer Science, University of California San Diego, 2022
 * M.S. in Aerospace Engineering, Sharif University of Technology, 2013
 * B.S. in Aerospace Engineering, K.N. Toosi University of Technology, 2011
 
@@ -25,14 +25,17 @@ __AI in medical imaging:__
 
 Work experience
 ======
+* __Outward Inc.__ Aug 2022 - Present:<br /> 
+  ___Senior AI R&D Engineer___
+  * Application of deep learning algorithms in scene understanding and recommendation systems in the retail industry.
+
+* __Outward Inc.__ Summer 2020 & 2021:<br /> 
+  ___Intern AI R&D Engineer___
+  * Application of deep learning algorithms in scene understanding and recommendation systems in the retail industry.
+
 * __CureMetrix Co.__ Summer 2017:<br />
   ___Data Science Intern___
   * Application  of Deep Learning in mammography images and breast cancer diagnosis.
-
-* __Outward Inc.__ Summer 2020 & 2021:<br /> 
-  ___Research Science Intern___
-  * Application of deep learning algorithms in scene understanding and recommendation systems in the retail industry.
-
 
 Publications
 ======

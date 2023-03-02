@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Kamran Alipour"
 title_separator          : "-"
-name                     : &name "Kamran Alipour"
-description              : &description "PhD Candidate, University of California San Diego"
+name                     : &name "Kamran Alipour, Ph.D."
+description              : &description "Senior AI R&D Engineer"
 url                      : https://kamranalipour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kamranalipour/kamranalipour.github.io"
@@ -70,10 +70,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kamran Alipour"
+  name             : "Kamran Alipour, Ph.D."
   avatar           : "profile.png"
-  bio              : "PhD Candidate, University of California San Diego"
-  location         : "San Diego, CA"
+  bio              : "Senior AI R&D Engineer"
+  location         : "San Jose, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=gLWhxj8AAAAJ&hl=en"
   email            :
@@ -90,7 +90,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kamran-alipour-586578b3/"
+  linkedin         : "kamran-alipour/"
   orcid            : "https://orcid.org/0000-0003-4443-4145"
   pinterest        :
   soundcloud       :
