@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-I'm a Ph.D. candidate in computer science at UC San Diego. My research is focused on developing and evaluating explainable AI (XAI) for computer vision and natural language processing(NLP). I've specifically worked on XAI methods that can make AI more interpretable in various applications such as visual question answering (VQA) and medical imaging. During my research, I've investigated the impact of explanations on users' trust in AI and evaluated the efficacy of different explanation methods in providing transparency to human-machine interactions.
+I am a senior AI R&D engineer with expertise in developing and deploying machine learning models for computer vision and natural language processing applications. I have extensive experience in explainable AI (XAI) methods and have worked on developing XAI techniques that enhance trust and transparency in human-machine interactions. I am currently spearheading the development of the next generation of AI-based recommendation systems for Williams Sonoma, leveraging cutting-edge deep learning algorithms to deliver highly interpretable recommendations that can be easily understood and explained by end-users.
 </div>
