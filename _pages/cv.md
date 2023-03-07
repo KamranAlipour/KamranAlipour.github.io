@@ -34,7 +34,7 @@ __Jokerst Bioimaging Lab, UCSD (NIH Grant):__
 
  Education
 ======
-* Ph.D in Computer Science, University of California San Diego, 2022
+* Ph.D. in Computer Science, University of California San Diego, 2022
 * M.S. in Aerospace Engineering, Sharif University of Technology, 2013
 * B.S. in Aerospace Engineering, K.N. Toosi University of Technology, 2011
 
