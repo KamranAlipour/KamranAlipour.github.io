@@ -11,24 +11,25 @@ Work experience
 ======
 * __Outward Inc.__ Aug 2022 - Present:<br /> 
   ___Senior AI R&D Engineer___
-  * Application of deep learning algorithms in scene understanding and recommendation systems in the retail industry.
+  * developing and implementing deep learning recommendation systems that can design and furnish rooms using transformer-based graph neural networks, which provide comprehensive explanations for their design choices.
 
 * __Outward Inc.__ Summer 2020 & 2021:<br /> 
   ___Intern AI R&D Engineer___
-  * Application of deep learning algorithms in scene understanding and recommendation systems in the retail industry.
+  * Developing algorithms for 3D scene understanding and depth estimation from single RGB images for advanced object and texture manipulation.
 
 * __CureMetrix Co.__ Summer 2017:<br />
   ___Data Science Intern___
-  * Application  of Deep Learning in mammography images and breast cancer diagnosis.
+  * Specializing in research and development of transformation techniques for efficient processing of 3D MRI images to improve breast cancer detection and prediction using AI algorithms.
 
 Research experience
 ======
-__Explainability in vision/language AI:__
- * Efficacy evaluation of explanation modalities in vision and language tasks and quantitative analysis of trust in AI algorithms. This project introduces new metrics and methods to produce, and evaluate the helpfulness of explanations.
- * Uncertainty prediction, calibration, and explanation in deep neural networks__Training uncertainty-aware AI algorithms and explaining their uncertainty with non-adversarial counterfactuals. 
+__SRI International (DARPA Grant):__
+ * Conducting research on multimodal explanations for vision and language tasks, and developing metrics to evaluate AI algorithm trust and competency.
 
-__AI in medical imaging:__
- * Detecting glaucoma from fundus photographs transformers. The introduced transformer based classifier proved higher accuracy and interpretability compared to its CNN counterpart.  
+__Shiley Eye Institute, UCSD Health (NIH Grant):__
+ * Detecting glaucoma from fundus photographs transformers. The introduced transformer based classifier proved higher accuracy and interpretability compared to its CNN counterpart.
+
+__Jokerst Bioimaging Lab, UCSD (NIH Grant):__
  * Contrast enhancement in low-fluence photoacoustic images with semi-supervised deep learning algorithms.
 
  Education
