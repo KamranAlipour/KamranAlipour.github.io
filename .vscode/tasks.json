@@ -1,0 +1,21 @@
+{
+	"command": "bundle",
+  	"args": ["exec"],
+	"tasks": [
+		{
+			"suppressTaskName": true,
+			"taskName": "clean",
+			"args": [ "clean"]
+		},
+		{
+			"suppressTaskName": true,
+			"taskName": "install",
+			"args": [ "install" ]
+		},
+		{
+			"suppressTaskName": true,
+			"taskName": "exec",
+			"args": [ "exec jekyll liveserve" ]
+		}
+	]
+}
