@@ -11,7 +11,7 @@ Our paper proposes a novel approach for glaucoma detection from fundus photograp
 
 We evaluated our approach on two publicly available datasets of fundus photographs and achieved competitive results compared to state-of-the-art methods, with AUCs of 0.952 and 0.973, respectively. Our findings suggest that transformer-based models have the potential to enhance medical image analysis tasks and may pave the way for future research in this area.
 
-![Alt text](/_site/images/glaucoma_transformer_paper_schema.png)
+![Alt text](/images/glaucoma_transformer_paper_schema.png)
 
 
 ## Visualizing the Mind of an AI: Generating Plausible Counterfactual Explanations for Image Classifiers
@@ -22,7 +22,7 @@ To achieve this, we use a generative adversarial network (GAN) to map input imag
 
 Our approach has significant implications for AI and machine learning, as it can improve the interpretability and transparency of image classifiers. It can be applied to a wide range of applications, including medical image analysis, autonomous driving, and security. Notably, our method outperforms existing explanation methods, demonstrating the potential for generative models and counterfactual reasoning to advance the field of AI.
 
-![Alt text](/_site/images/latent_counterfactual_teaser_LQ.gif)
+![Alt text](/images/latent_counterfactual_teaser_LQ.gif)
 
 
 ## Seeing More Clearly with AI: Enhancing Photoacoustic Imaging in Low-Fluence Conditions
@@ -34,4 +34,4 @@ Our results demonstrate the potential of our approach to significantly improve t
 
 Overall, we believe that our work showcases the power of deep learning to advance medical imaging and provides exciting opportunities for future research in this area. We are confident that our work will be of great interest to anyone interested in AI and its applications in healthcare.
 
-![Alt text](/_site/images/photoacoustic_paper_results.png)
+![Alt text](/images/photoacoustic_paper_results.png)
