@@ -11,7 +11,7 @@ Work experience
 ======
 * __Outward Inc.__ Aug 2022 - Present:<br /> 
   ___Senior AI R&D Engineer___
-  * developing and implementing deep learning recommendation systems that can design and furnish rooms using transformer-based graph neural networks, which provide comprehensive explanations for their design choices.
+  * Developing and implementing deep learning recommendation systems that can design and furnish rooms using transformer-based graph neural networks, which provide comprehensive explanations for their design choices.
 
 * __Outward Inc.__ Summer 2020 & 2021:<br /> 
   ___Intern AI R&D Engineer___
