@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Work experience
+Work Experience
 ======
 * __Outward Inc.__ Aug 2022 - Present:<br /> 
   ___Senior AI R&D Engineer___
@@ -21,16 +21,17 @@ Work experience
   ___Data Science Intern___
   * Specializing in research and development of transformation techniques for efficient processing of 3D MRI images to improve breast cancer detection and prediction using AI algorithms.
 
-Research experience
+Research Experience
 ======
-__SRI International (DARPA Grant):__
- * Conducting research on multimodal explanations for vision and language tasks, and developing metrics to evaluate AI algorithm trust and competency.
 
-__Shiley Eye Institute, UCSD Health (NIH Grant):__
+__Shiley Eye Institute, UCSD Health (NIH Grant)__ 2021 - Present:<br />
  * Detecting glaucoma from fundus photographs transformers. The introduced transformer based classifier proved higher accuracy and interpretability compared to its CNN counterpart.
 
-__Jokerst Bioimaging Lab, UCSD (NIH Grant):__
+__Jokerst Bioimaging Lab, UCSD (NIH Grant)__ 2019 - 2020:<br />
  * Contrast enhancement in low-fluence photoacoustic images with semi-supervised deep learning algorithms.
+
+ __SRI International (DARPA Grant)__ 2017 - 2021:<br />
+ * Conducting research on multimodal explanations for vision and language tasks, and developing metrics to evaluate AI algorithm trust and competency.
 
  Education
 ======
