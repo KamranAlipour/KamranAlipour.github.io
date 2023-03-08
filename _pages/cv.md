@@ -18,7 +18,7 @@ Work Experience
   * Developing algorithms for 3D scene understanding and depth estimation from single RGB images for advanced object and texture manipulation.
 
 * __CureMetrix Co.__ Summer 2017:<br />
-  ___Data Science Intern___
+  ___Intern Data Scientist___
   * Specializing in research and development of transformation techniques for efficient processing of 3D MRI images to improve breast cancer detection and prediction using AI algorithms.
 
 Research Experience
