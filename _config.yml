@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kamran Alipour"
 title_separator          : "-"
 name                     : &name "Kamran Alipour, Ph.D."
-description              : &description "Senior AI R&D Engineer"
+description              : &description "Machine Learning Engineer"
 url                      : https://kamranalipour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kamranalipour/kamranalipour.github.io"
@@ -72,7 +72,7 @@ analytics:
 author:
   name             : "Kamran Alipour, Ph.D."
   avatar           : "profile.png"
-  bio              : "Senior AI R&D Engineer"
+  bio              : "Machine Learning Engineer"
   location         : "San Jose, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=gLWhxj8AAAAJ&hl=en"
