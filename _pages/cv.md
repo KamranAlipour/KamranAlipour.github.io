@@ -9,7 +9,7 @@ redirect_from:
 
 Work Experience
 ======
-* __Apple__ Sep 2022 - Present:<br /> 
+* __Apple__ Sep 2024 - Present:<br /> 
   ___Machine Learning Engineer___
   * Development and evaluation of large language models in health applications.
 
