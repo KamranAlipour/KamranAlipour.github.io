@@ -9,7 +9,11 @@ redirect_from:
 
 Work Experience
 ======
-* __Outward Inc.__ Aug 2022 - Present:<br /> 
+* __Apple__ Sep 2022 - Present:<br /> 
+  ___Machine Learning Engineer___
+  * Development and evaluation of large language models in health applications.
+
+* __Outward Inc.__ Aug 2022 - Sep 2024:<br /> 
   ___Senior AI R&D Engineer___
   * Developing and implementing deep learning recommendation systems that can design and furnish rooms using transformer-based graph neural networks, which provide comprehensive explanations for their design choices.
 
