@@ -8,5 +8,10 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-I am a senior AI R&D engineer with expertise in developing and deploying machine learning models for computer vision and natural language processing applications. I have extensive experience in explainable AI (XAI) methods and have worked on developing XAI techniques that enhance trust and transparency in human-machine interactions. I am currently spearheading the development of the next generation of AI-based recommendation systems for Williams Sonoma, leveraging cutting-edge deep learning algorithms to deliver highly interpretable recommendations that can be easily understood and explained by end-users.
+
+I am a Machine Learning Engineer at Apple, focused on the development and evaluation of Large Language Models (LLMs) for health applications. Broadly, my interests lie in building and deploying machine learning models for computer vision and natural language processing tasks.
+
+I have extensive experience in explainable AI (XAI), with a strong emphasis on designing techniques that promote trust and transparency in human-machine interactions. My PhD research centered on developing interpretable transformer models that can articulate their reasoning processes through their attention mechanisms.
+
+Previously, from August 2022 to September 2024, I served as a Senior AI R&D Engineer at Williams-Sonoma, where I led the development of recommendation systems. My work involved applying advanced deep learning techniques to create interpretable recommendation models that provide clear, user-understandable explanations.
 </div>
